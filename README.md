@@ -61,8 +61,3 @@ os monstros representam diferentes tipos de descuidados com a higiene, e o heró
 ideias, melhorias e feedbacks são muito bem-vindos!
 sinta-se livre para abrir uma issue ou mandar um pull request. 🚀
 
-## 📜 licença
-este projeto é livre para uso acadêmico e educativo.
-cite a fonte se for reaproveitar o código.
-
-por: @guifigueireedo em todas as redes sociais
